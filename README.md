@@ -1,6 +1,5 @@
-# priyanshi
-<p>Hi, I'm Priyanshi Yadav! 👋
-
+<h1>Hi, I'm Priyanshi Yadav! 👋</h1>
+<p>
 MSc Geoinformatics & Spatial Data Science Student | Data Science Enthusiast | Statistics Graduate
 
 I'm currently pursuing my Master's in Geoinformatics and Spatial Data Science at the University of Münster, Germany.
